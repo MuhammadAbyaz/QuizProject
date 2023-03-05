@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question": "In which year Pakistan was made?",
+      "options": [
+        "1947",
+        "1948",
+        "1920",
+        "1867"
+      ],
+      "answer" : "1947"
+    },
+    {
+      "question": "In which year 2nd World War started?",
+      "options": [
+        "1947",
+        "1943",
+        "1920",
+        "1867"
+      ],
+      "answer" : "1943"
+    }
+  ]
+}
